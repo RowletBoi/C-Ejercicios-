@@ -12,14 +12,14 @@
         Longitud = Convert.ToDouble(Console.ReadLine());
         double Area = (Vara * Longitud);
         AreaZana = Area / Manzana;
-        Console.WriteLine("MIraaaa Esto En Varas: " + Area);
-        Console.WriteLine("MIRAAAAAA pero en Zanas " + AreaZana);
+        Console.WriteLine("Esta es la area en varas:  " + Area);
+        Console.WriteLine("Esta es la area en Manzanas " + AreaZana);
 
         ///////////////////////EJERCICIO 2///////////////////////////////////////////////
 
         double KMH;
         int Kilometros = 40;
-        Console.WriteLine("A CUANTO VAS???????");
+        Console.WriteLine("Ingrese su velocidad aproximada: ");
         KMH = Convert.ToDouble(Console.ReadLine());
         double Horas = Kilometros / KMH;
 
@@ -27,7 +27,7 @@
 
         ///////////////////////EJERCICIO 3////////////////////////////////////
         double Velocidad, Tiempo, Distancia;
-        Console.WriteLine("Decime cuanto es tu velocidad promedio (en KMH): ");
+        Console.WriteLine("Ingrese cuanto es tu velocidad promedio (en KMH): ");
         Velocidad = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("En Cuanto tiempo lo recorriste?");
         Tiempo = Convert.ToDouble(Console.ReadLine());

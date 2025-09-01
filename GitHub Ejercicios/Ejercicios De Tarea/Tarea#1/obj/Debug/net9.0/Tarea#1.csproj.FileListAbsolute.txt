@@ -1,0 +1,14 @@
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/bin/Debug/net9.0/Tarea#1
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/bin/Debug/net9.0/Tarea#1.deps.json
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/bin/Debug/net9.0/Tarea#1.runtimeconfig.json
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/bin/Debug/net9.0/Tarea#1.dll
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/bin/Debug/net9.0/Tarea#1.pdb
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/Tarea#1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/Tarea#1.AssemblyInfoInputs.cache
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/Tarea#1.AssemblyInfo.cs
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/Tarea#1.csproj.CoreCompileInputs.cache
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/Tarea#1.dll
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/refint/Tarea#1.dll
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/Tarea#1.pdb
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/Tarea#1.genruntimeconfig.cache
+/Users/josh/Documents/UAM Cosas /Programacion Estructurada/Ejercicios De Tarea/Tarea#1/obj/Debug/net9.0/ref/Tarea#1.dll
